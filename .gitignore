@@ -1,0 +1,16 @@
+# Environment
+.env
+kilimo/ (venv name you prefer)
+kilimo-voice/
+venv/
+
+# Python
+**pycache**/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+
+# Data
+Data/*
